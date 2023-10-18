@@ -1,4 +1,4 @@
-# Codes
+# Codes IN C
  Beginner friendly
 
 Please correct me if im wrong in one of these!
